@@ -4,29 +4,30 @@ Our team consists of Thailand IOI alumni and volunteers, aiming to contribute to
 
 ## Professors
 
-- Jittat
-- Nattee
-- Tana
-- Pitchaya
+- Jittat Fakcharoenphol
+- Nattee Niparnan
+- Tana Wattanawaroon
+- Pitchaya Sitthi-amorn
 
 ## Members
 
-- Sirawit (Plum)
-- Borworntat (Icy)
-- Pitchayut (Mark)
-- Wuttisun (Heart)
-- Paponthanai (Neo)
-- Kamanun (Jom)
-- Mok (Mok)
-- Atittarn (Tonsak)
-- Poonyapat (Poon)
-- Thanapon (Pon)
-- Pasin (Jechou)
-- Krit (Krit)
-- Krist (Krist)
+- Sirawit (Plum) Pongnakintr
+- Borworntat (Icy) Dendumrongkul
+- Pitchayut (Mark) Saengrungkongka
+- Wuttisun (Heart) Pratpayon
+- Paponthanai (Neo) Ounsopa
+- Kamanun (Jom) Maneesri
+- Mok (Mok) Wattanasopon
+- Atittarn (Tonsak) Buathep
+- Poonyapat (Poon) Sriroth
+- Thanapon (Pon) Maiseaumsook
+- Pasin (Jechou) Pornsiwakul
+- Krit (Krit) Suwanpaiboon
+- Krist (Krist) Ponpairin
+- Pakarin (Jiang) Leetrairong
 
 ## Former Members
 
-- Nutthapat (Leo)
-- Kanin (Non)
-- Pongsaphol (Win)
+- Nutthapat (Leo) Pongtanyavichai
+- Kanin (Non) Suphap
+- Pongsaphol (Win) Pongsawakul
