@@ -10,6 +10,7 @@
     "vitepress-carbon": "^1.3.3"
   },
   "devDependencies": {
+    "@types/node": "^22.7.4",
     "vitepress": "1.0.0-rc.45"
   }
 }

@@ -8,25 +8,48 @@ export default defineConfigWithTheme<ThemeConfig>({
   title: "ThailandOI",
   description: "ThailandOI",
   srcDir: "src",
-  //base: '/vitepress-carbon-template/', if running on github-pages, set repository name here
+  lastUpdated: true,
+  cleanUrls: true,
+  metaChunk: true,
+  // base: "/",
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Materials", link: "/materials" },
+      { text: "Materials", link: "/materials/" },
+      { text: "Exams", link: "/exams/" },
     ],
 
     search: {
       provider: "local",
     },
 
+    outline: [2, 3],
+
     sidebar: [
       {
-        text: "Examples",
+        text: "Materials",
         items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
+          { text: "ค่ายตุลา 67 (oct67)", link: "/materials/oct67" },
+          { text: "ค่ายมีนา 67 (mar67)", link: "/materials/mar67" },
+          { text: "ค่ายตุลา 66 (oct66)", link: "/materials/oct66" },
+          { text: "ค่ายตุลา 65 (oct65)", link: "/materials/oct65" },
+        ],
+      },
+      {
+        text: "Exams",
+        items: [
+          { text: "ค่ายตุลา 66 (oct66)", link: "/exams/oct66" },
+          { text: "ค่ายมีนา 67 (mar67)", link: "/exams/mar67" },
+          { text: "ค่ายพฤษภา 67 (may67)", link: "/exams/may67" },
+        ],
+      },
+      {
+        text: "About",
+        items: [
+          { text: "About", link: "/about/" },
+          { text: "People", link: "/about/people" },
         ],
       },
     ],
@@ -34,8 +57,26 @@ export default defineConfigWithTheme<ThemeConfig>({
     socialLinks: [
       {
         icon: "github",
-        link: "https://github.com/brenoepics/vitepress-carbon",
+        link: "https://github.com/thailand-oi-task-team/thailand-oi-task-team.github.io",
       },
     ],
+
+    lastUpdated: {
+      formatOptions: { dateStyle: "short", timeStyle: "short" },
+    },
+
+    logo: {
+      src: "/logo.png",
+    },
   },
+  head: [
+    [
+      "link",
+      {
+        rel: "icon",
+        href: "https://thailand-oi-task-team.github.io/logo.png",
+      },
+    ],
+  ],
+  ignoreDeadLinks: true,
 });

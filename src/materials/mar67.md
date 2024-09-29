@@ -71,7 +71,7 @@ Additional problems
 - [เอกสาร](/2024-03-15-linear-algebra.pdf)
 - [คลิป 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) ไว้หมดค่ายแล้วถ้าสนใจดูได้ครับ
 
-Linear algebra
+### Linear algebra
 
 1. playlist เก่า (สั้นกว่า) https://www.youtube.com/watch?v=nE2a94KCCOE&list=PLii-CvAgf-8g6rVwbh_DXq_E932KK7LqZ
 2. playlist ใหม่ (ยาวกว่า) https://www.youtube.com/watch?v=5wR4zqlJYjI&list=PLii-CvAgf-8gySjHvc6gB-bnfpUE5-XeV&index=1
