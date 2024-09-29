@@ -1,9 +1,15 @@
-import { defineConfig } from "vitepress";
+import { defineConfigWithTheme } from "vitepress";
+import type { ThemeConfig } from "vitepress-carbon";
+import baseConfig from "vitepress-carbon/config";
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
-  title: "thailandoi.org",
-  description: "A VitePress Site",
+export default defineConfigWithTheme<ThemeConfig>({
+  extends: baseConfig,
+  title: "ThailandOI",
+  description: "ThailandOI",
+  srcDir: "src",
+  //base: '/vitepress-carbon-template/', if running on github-pages, set repository name here
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -11,18 +17,25 @@ export default defineConfig({
       { text: "Materials", link: "/materials" },
     ],
 
+    search: {
+      provider: "local",
+    },
+
     sidebar: [
       {
-        text: "Materials",
+        text: "Examples",
         items: [
-          { text: "mar67", link: "/materials/mar67" },
+          { text: "Markdown Examples", link: "/markdown-examples" },
           { text: "Runtime API Examples", link: "/api-examples" },
         ],
       },
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      {
+        icon: "github",
+        link: "https://github.com/brenoepics/vitepress-carbon",
+      },
     ],
   },
 });

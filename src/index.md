@@ -1,11 +1,10 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
+# https://brenoepics.github.io/vitepress-carbon/guide/home-component.html
 layout: home
 
 hero:
-  name: "thailandoi.org"
-  text: "ThailandOI ORG"
-  tagline: IOI Thailand Task Team
+  name: "ThailandOI"
+  text: "Thailand IOI Selection Camp"
   actions:
     - theme: brand
       text: Markdown Examples

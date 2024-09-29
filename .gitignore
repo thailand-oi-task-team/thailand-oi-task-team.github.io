@@ -302,3 +302,5 @@ TODOs.md
 .vscode
 .vitepress/dist/
 .idea/
+
+.vitepress/cache
