@@ -17,7 +17,10 @@ hero:
       link: /materials/
 
 features:
-  - title: ข้อสอบเก่า
-    details: link ข้อสอบเก่า
+  - title: Past Exams
+    details: link to past exams
     link: /exams/
+  - title: Former Contestants
+    details: since IOI2023
+    link: /team/
 ---
