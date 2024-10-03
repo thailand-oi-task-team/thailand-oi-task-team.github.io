@@ -7,3 +7,7 @@
 ### โจทย์
 
 - [Lomsat gelral](https://codeforces.com/contest/600/problem/E)
+
+### วิดีโอเนื้อหาเพิ่มเติม
+
+- [Merge Small to Large & Sack](https://www.youtube.com/watch?v=Fzr-l6ZpTNE)
