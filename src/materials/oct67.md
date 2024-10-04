@@ -11,3 +11,4 @@
 ### วิดีโอเนื้อหาเพิ่มเติม
 
 - [Merge Small to Large & Sack](https://www.youtube.com/watch?v=Fzr-l6ZpTNE)
+- [Treaps: Implementation and Analysis](https://www.youtube.com/playlist?list=PLDu2R0R9xwctQ6qzQ_0L55fxDhpB2qf6Q)
