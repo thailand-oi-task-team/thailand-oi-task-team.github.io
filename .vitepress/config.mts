@@ -6,7 +6,7 @@ import baseConfig from "vitepress-carbon/config";
 export default defineConfigWithTheme<ThemeConfig>({
   extends: baseConfig,
   title: "ThailandOI",
-  description: "ThailandOI",
+  description: "ThailandOI task team website",
   srcDir: "src",
   lastUpdated: true,
   cleanUrls: true,
