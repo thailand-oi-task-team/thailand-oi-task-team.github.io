@@ -11,7 +11,7 @@
 
 สองอันนี้จะต้อง compile ด้วยกัน ให้กด check ข้างหลัง แล้วกด `Advanced`
 
-`Stages`: `Compile time`
+`Stages`: `Compile time`  
 `Assets`: `Solution`
 
 - ถ้าจะใช้ lib นอกเพื่อ generate testcase ให้ใส่ใน `Assets` ด้วย
@@ -161,5 +161,3 @@ gen -N 5 -Q 1000 -MAX_K 4 > $
 
 - กด `Create package` (Full) แล้วรอก่อน
 - ตอนโหลด package ให้กด `linux`
-
-

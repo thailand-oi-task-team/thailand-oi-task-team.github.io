@@ -80,7 +80,7 @@ example:
 
 5. upload statement
 
-`language code`: ใส่ตามภาษาที่ใช้ ถ้าจะแก้ไข (ทำ rev2, rev3, ...) ให้เปลี่ยน langue code เป็น `lang_revX` แทน
+`language code`: ใส่ตามภาษาที่ใช้ ถ้าจะแก้ไข (ทำ rev2, rev3, ...) ให้เปลี่ยน langue code เป็น `lang_rev(X)` แทน
 (เช่น `cpp_rev2`) ไม่งั้นพัง
 
 6. upload attachment ให้ upload `public.zip` หรือจะชื่ออะไรก็แล้วแต่
