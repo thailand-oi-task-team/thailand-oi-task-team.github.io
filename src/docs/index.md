@@ -6,4 +6,5 @@
 
 - [CMS DOCS](https://cms.readthedocs.io/en/latest/index.html)
 - [Task Uploading](/docs/task-upload)
+- [Group Min Prereq](/docs/group-min-prereq)
 - [คำแนะนำ Polygon](/docs/polygon/)
