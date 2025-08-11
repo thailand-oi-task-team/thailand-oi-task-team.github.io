@@ -2,6 +2,12 @@
 
 Result can be found at [IOI Official Website](https://stats.ioinformatics.org/results/THA)
 
+## IOI 2025
+
+![IOI 2025](/teams/2025.png)
+
+From Left to Right: Sean (Silver), Papangkorn (Bronze), Araya (Bronze), Thawin (Bronze)
+
 ## IOI 2024
 
 ![IOI 2024](/teams/2024.jpg)
