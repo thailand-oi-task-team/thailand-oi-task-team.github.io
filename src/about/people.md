@@ -12,7 +12,6 @@ Our team consists of Thailand IOI alumni and volunteers, aiming to contribute to
 
 ## Members
 
-- Sirawit (Plum) Pongnakintr, ETH Zurich
 - Atittarn (Tonsak) Buathep
 - Borworntat (Icy) Dendumrongkul, Chulalongkorn University
 - Poonyapat (Poon) Sriroth, Chinese University of Hong Kong
@@ -24,7 +23,7 @@ Our team consists of Thailand IOI alumni and volunteers, aiming to contribute to
 - Petewat (Pete) Chaoha
 - Anak Yodpinyanee, Bank of Thailand
 - Tossaporn (Tree) Saengja, SiData+
-
+- Kittiphat (Goodman) Pongarunotai, Nanyang Technological University
 
 ## Administrators
 
@@ -41,3 +40,4 @@ Our team consists of Thailand IOI alumni and volunteers, aiming to contribute to
 - Nutthapat (Leo) Pongtanyavichai
 - Kanin (Non) Suphap
 - Pongsaphol (Win) Pongsawakul
+- Sirawit (Plum) Pongnakintr
