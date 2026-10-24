@@ -6,38 +6,41 @@ Our team consists of Thailand IOI alumni and volunteers, aiming to contribute to
 
 - Jittat Fakcharoenphol, Kasetsart University
 - Nattee Niparnan, Chulalongkorn University
-- Tana Wattanawaroon, Kasetsart University
 - Pitchaya Sitthi-amorn, Chulalongkorn University
+- Tana Wattanawaroon, Kasetsart University
 - Vacharapat Mettanant, Kasetsart University (Sriracha Campus)
 
 ## Members
 
-- Atittarn (Tonsak) Buathep
+- Anak Yodpinyanee, Bank of Thailand
+- Araya (Omsin) Luanseng, University of Cambridge
+- Atittarn (Tonsak) Buathep, LUMIO3D
 - Borworntat (Icy) Dendumrongkul, Chulalongkorn University
-- Poonyapat (Poon) Sriroth, Chinese University of Hong Kong
-- Pasin (Jechou) Pornsiwakul, Chulalongkorn University
-- Pitchayut (Mark) Saengrungkongka, Massachusetts Institute of Technology
-- Paponthanai (Neo) Ounsopa, Chulalongkorn University
+- Kittiphat (Goodman) Pongarunotai, Nanyang Technological University
+- Kunthee (Kun) Yongvanich, University of Oxford
 - Mok (Mok) Wattanasopon, Tokyo Institute of Technology
 - Papangkorn (Ray) Apinyanon, Massachusetts Institute of Technology
-- Petewat (Pete) Chaoha
-- Anak Yodpinyanee, Bank of Thailand
+- Paponthanai (Neo) Ounsopa, Chulalongkorn University
+- Pasin (Jechou) Pornsiwakul, Chulalongkorn University
+- Petewat (Pete) Chaoha, Columbia University
+- Pitchayut (Mark) Saengrungkongka, Massachusetts Institute of Technology
+- Poonyapat (Poon) Sriroth, Chinese University of Hong Kong
 - Tossaporn (Tree) Saengja, SiData+
-- Kittiphat (Goodman) Pongarunotai, Nanyang Technological University
 
 ## Administrators
 
-- Krit (Krit) Suwanpaiboon, Osaka University
-- Krist (Krist) Ponpairin
-- Pakarin (Jiang) Leetrairong, Massachusetts Institute of Technology
+- Abhabongse Janthong
 - Kamanun (Jom) Maneesri, Chulalongkorn University
+- Krist (Krist) Ponpairin
+- Krit (Krit) Suwanpaiboon, Osaka University
+- Pakarin (Jiang) Leetrairong, Massachusetts Institute of Technology
+- Phoomraphee Luenam, ETH Zurich
 - Thanapon (Pon) Maiseaumsook, Chinese University of Hong Kong
 - Wuttisun (Heart) Pratpayon, Mahidol University
-- Phoomraphee Luenam, ETH Zurich
 
 ## Former Members
 
-- Nutthapat (Leo) Pongtanyavichai
 - Kanin (Non) Suphap
+- Nutthapat (Leo) Pongtanyavichai
 - Pongsaphol (Win) Pongsawakul
 - Sirawit (Plum) Pongnakintr
